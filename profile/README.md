@@ -1,9 +1,19 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
-</head>
+# 你们好 👋, < FRCers  />!
 
-## Hi there 👋
+### 我们是谁？
 
-<p style="font-family: 'Noto Serif SC', serif;">你们好</p>
+我们是 **FRC-China 项目组**，本项目于 2023 年 5 月 28 日由上海 FRC 队伍 6353 与 6941 的部分成员自发组织启动，并受到了多支队伍的支持。
+
+### 我们要干什么？
+
+本项目的目标是为中国的 FRC 队伍提供一个更好的简中环境，以便于新队伍的入门与所有 FRCers 的学习交流。
+
+### 我们为什么要这么做？
+
+FRC 比赛历史悠久，但由于资源获取困难、经费需求大、门槛高等问题，在中国一直没有得到很好的发展。我们希望通过这个项目，能够让更多的中国队伍加入到 FRC 的大家庭当中。
+
+### 如何帮助我们？
+
+我们欢迎任何人对我们的项目做出贡献，包括但不限于资金、技术等。请联系 [CLCK0622](mailto:zhongyi070622@163.com) 或 EvanLuo42。
+
+**我们在此声明：** 本项目和 FIRST® 组织没有任何关联，是一个自发性的民间非营利项目，旨在服务中国 FRC 队伍。所有做出捐赠的人会被列在 致谢 - FRC 中文 Wiki 中。
