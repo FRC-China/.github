@@ -16,4 +16,4 @@ FRC 比赛历史悠久，但由于资源获取困难、经费需求大、门槛�
 
 我们欢迎任何人对我们的项目做出贡献，包括但不限于资金、技术等。请联系 [CLCK0622](mailto:zhongyi070622@163.com) 或 EvanLuo42。
 
-**我们在此声明：** 本项目和 FIRST® 组织没有任何关联，是一个自发性的民间非营利项目，旨在服务中国 FRC 队伍。所有做出贡献的人会被列在 致谢 - FRC 中文 Wiki 中。
+**我们在此声明：** 本项目和 FIRST® 组织没有任何关联，是一个自发性的民间非营利项目，旨在服务中国 FRC 队伍。所有做出贡献的人会被列在 [致谢 - FRC 中文 Wiki](https://wiki.firstrobotics.com.cn/start/acknowledgement/) 中。
